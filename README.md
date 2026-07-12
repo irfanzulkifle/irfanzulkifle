@@ -2,7 +2,7 @@
 
 Cloud and network support engineer in Kuala Lumpur. I'm completing the AWS re/Start program and I'm CompTIA Network+ certified. Currently studying for AWS Certified Cloud Practitioner (exam Jul 2026).
 
-I build things I can defend in an interview. Real infrastructure and real security tooling instead of lab screenshots. Most of my repos are hands-on AWS, Linux and Python work with a networking focus.
+I'm still learning, but I try to build real things rather than just follow labs. Most of my repos are hands-on AWS, Linux and Python work with a networking focus.
 
 ## What I'm into
 
@@ -34,4 +34,4 @@ I build things I can defend in an interview. Real infrastructure and real securi
 - AWS notes: aws-notes-website.vercel.app
 - Location: Cheras, Kuala Lumpur, Malaysia
 
-Open to cloud, infrastructure and junior DevOps roles. Happy to talk VPCs and security groups any time.
+Open to cloud, infrastructure and junior DevOps roles. Always happy to learn from people who know more than I do.

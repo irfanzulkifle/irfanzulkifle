@@ -1,5 +1,9 @@
 # Hi, I'm Irfan
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/irfanzulkifle)
+[![Email](https://img.shields.io/badge/Email-irfan.zlkfle%40gmail.com-red?style=flat&logo=gmail)](mailto:irfan.zlkfle@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Cheras%2C%20Kuala%20Lumpur-lightgrey?style=flat&logo=googlemaps)](https://www.google.com/maps/search/?api=1&query=Cheras+Kuala+Lumpur)
+
 Cloud and network support engineer in Kuala Lumpur. I'm completing the AWS re/Start program and I'm CompTIA Network+ certified. Currently studying for AWS Certified Cloud Practitioner (exam Aug 2026) and CompTIA Cloud+ (exam Sept 2026).
 
 I'm still learning, but I try to build real things rather than just follow labs. Most of my repos are hands-on AWS, Linux and Python work with a networking focus.
@@ -30,9 +34,9 @@ I'm still learning, but I try to build real things rather than just follow labs.
 
 ## Find me
 
-- LinkedIn: linkedin.com/in/irfanzulkifle
-- Email: irfan.zlkfle@gmail.com
-- AWS notes: aws-notes-website.vercel.app
+- LinkedIn: [linkedin.com/in/irfanzulkifle](https://linkedin.com/in/irfanzulkifle)
+- Email: [irfan.zlkfle@gmail.com](mailto:irfan.zlkfle@gmail.com)
+- AWS notes: [aws-notes-website.vercel.app](https://aws-notes-website.vercel.app)
 - Location: Cheras, Kuala Lumpur, Malaysia
 
 Open to cloud, infrastructure and junior DevOps roles. Always happy to learn from people who know more than I do.

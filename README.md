@@ -6,14 +6,15 @@
 
 Cloud and network support engineer in Kuala Lumpur. I'm completing the AWS re/Start program and I'm CompTIA Network+ certified. Currently studying for AWS Certified Cloud Practitioner (exam Aug 2026) and CompTIA Cloud+ (exam Sept 2026).
 
-I'm still learning. I try to build real things rather than just follow labs. Most of my repos are hands-on AWS, Linux and Python work with a networking focus.
+I'm still learning. I try to build real things rather than just follow labs. Most of my work is hands-on AWS, Linux and Python. Lately I've been getting into AI engineering by running my own Hermes agent on a VPS.
 
 ## What I'm into
 
 - Cloud operations, infrastructure support and network troubleshooting
 - AWS (EC2, S3, IAM, VPC, Systems Manager), Linux and Python automation
 - Security: least privilege, security group analysis, CIS-aligned checks
-- Studying for AWS Cloud Practitioner (CLF-C02)
+- AI engineering: running a personal Hermes agent on my VPS, LLM workflows and automation
+- Studying for AWS Cloud Practitioner (CLF-C02) and CompTIA Cloud+ (CV0-004)
 
 ## Projects
 
@@ -26,6 +27,7 @@ I'm still learning. I try to build real things rather than just follow labs. Mos
 ## Certifications
 
 - CompTIA Network+ - Mar 2026
+- AWS AI Practitioner Challenge (Udacity, part of Accenture) - Jun 2026
 - AWS Certified Cloud Practitioner (CLF-C02) - in progress, exam Aug 2026
 - CompTIA Cloud+ (CV0-004) - in progress, exam Sept 2026
 - APAC Cybersecurity Fund Training (Trainocate) - Apr 2026
@@ -39,4 +41,4 @@ I'm still learning. I try to build real things rather than just follow labs. Mos
 - AWS notes: [aws-notes-website.vercel.app](https://aws-notes-website.vercel.app)
 - Location: Kuala Lumpur, Malaysia
 
-Open to cloud, infrastructure and junior DevOps roles. Always happy to learn from people who know more than I do.
+Open to cloud, infrastructure, AI engineering and junior DevOps roles. Always happy to learn from people who know more than I do.

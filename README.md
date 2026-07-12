@@ -1,6 +1,6 @@
 # Hi, I'm Irfan
 
-Cloud and network support engineer in Kuala Lumpur. I'm completing the AWS re/Start program and I'm CompTIA Network+ certified. Currently studying for AWS Certified Cloud Practitioner (exam Jul 2026).
+Cloud and network support engineer in Kuala Lumpur. I'm completing the AWS re/Start program and I'm CompTIA Network+ certified. Currently studying for AWS Certified Cloud Practitioner (exam Aug 2026) and CompTIA Cloud+ (exam Sept 2026).
 
 I'm still learning, but I try to build real things rather than just follow labs. Most of my repos are hands-on AWS, Linux and Python work with a networking focus.
 
@@ -22,7 +22,8 @@ I'm still learning, but I try to build real things rather than just follow labs.
 ## Certifications
 
 - CompTIA Network+ - Mar 2026
-- AWS Certified Cloud Practitioner (CLF-C02) - in progress, exam Jul 2026
+- AWS Certified Cloud Practitioner (CLF-C02) - in progress, exam Aug 2026
+- CompTIA Cloud+ (CV0-004) - in progress, exam Sept 2026
 - APAC Cybersecurity Fund Training (Trainocate) - Apr 2026
 - Microsoft Applied Skills: Developing Agents in Microsoft Foundry - May 2026
 - Google IT Support Professional Certificate - Jul 2020

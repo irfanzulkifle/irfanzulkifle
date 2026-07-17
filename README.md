@@ -12,6 +12,9 @@ I'm still learning. I try to build real things rather than just follow labs. Mos
 
 - Cloud operations, infrastructure support and network troubleshooting
 - AWS (EC2, S3, IAM, VPC, Systems Manager), Linux and Python automation
+- Containers & orchestration: Docker, Kubernetes (Kind/EKS-ready), Helm basics
+- Infrastructure as Code: Terraform, CloudFormation
+- CI/CD and DevSecOps: GitHub Actions, Trivy image scanning, OIDC-ready deploys
 - Security: least privilege, security group analysis, CIS-aligned checks
 - AI engineering: running a personal Hermes agent on my VPS, LLM workflows and automation
 - Studying for AWS Cloud Practitioner (CLF-C02) and CompTIA Cloud+ (CV0-004)
@@ -23,6 +26,7 @@ I'm still learning. I try to build real things rather than just follow labs. Mos
 - **hermes-agentic-ai-infrastructure** - Autonomous agent infrastructure on a Linux VPS: 45 cron workflows, 9router LLM gateway, full observability stack.
 - **cloud-plus-mock** - Free Pearson VUE-style CompTIA Cloud+ (CV0-004) mock exam simulator, 310 questions with per-option explanations.
 - **aws-notes-website** - Public, searchable AWS re/Start knowledge base built with Next.js and deployed on Vercel.
+- **k8s-demo-app** - Containerized FastAPI service deployed to Kubernetes via Terraform with a GitHub Actions CI/CD pipeline (Trivy vulnerability gate, OIDC-ready).
 
 ## Certifications
 

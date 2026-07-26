@@ -12,21 +12,21 @@ I'm still learning. I try to build real things rather than just follow labs. Mos
 
 - Cloud operations, infrastructure support and network troubleshooting
 - AWS (EC2, S3, IAM, VPC, Systems Manager), Linux and Python automation
-- Containers & orchestration: Docker, Kubernetes (Kind/EKS-ready), Helm basics
-- Infrastructure as Code: Terraform, CloudFormation
-- CI/CD and DevSecOps: GitHub Actions, Trivy image scanning, OIDC-ready deploys
+- CI/CD to AWS: GitHub Actions, OIDC keyless deploys, Trivy image scanning
+- Containers and orchestration: Docker, Kubernetes (Kind/EKS-ready), Helm basics
+- Infrastructure as Code: Terraform, CloudFormation, checkov scanning
+- Network monitoring and automation: reachability, port and latency checks
 - Security: least privilege, security group analysis, CIS-aligned checks
 - AI engineering: running a personal Hermes agent on my VPS, LLM workflows and automation
-- Studying for AWS Cloud Practitioner (CLF-C02) and CompTIA Cloud+ (CV0-004)
 
 ## Projects
 
-- **aws-vpc-ec2-baseline** - Hardened CloudFormation VPC + EC2 baseline. SSM-only access, no open port 22, CI security scanning.
+- **ecs-fargate-cicd-pipeline** - FastAPI service that ships to AWS ECS Fargate on every push, using GitHub Actions with OIDC and no static AWS keys. Trivy scans the image and checkov scans the Terraform, both in CI.
+- **network-health-monitor** - Async Python tool that checks host reachability and TCP ports and stores uptime and latency in SQLite. It sends a webhook alert only when a host changes state. Scheduled with a systemd timer.
+- **aws-vpc-ec2-baseline** - Hardened CloudFormation VPC and EC2 baseline. SSM-only access, no open port 22, CI security scanning.
 - **cloud-security-posture-analyzer** - Python CLI that audits AWS-style inventories and flags misconfigurations, mapped to CIS AWS Foundations v1.4.0.
 - **hermes-agentic-ai-infrastructure** - Autonomous agent infrastructure on a Linux VPS: 45 cron workflows, 9router LLM gateway, full observability stack.
-- **cloud-plus-mock** - Free Pearson VUE-style CompTIA Cloud+ (CV0-004) mock exam simulator, 310 questions with per-option explanations.
-- **aws-notes-website** - Public, searchable AWS re/Start knowledge base built with Next.js and deployed on Vercel.
-- **k8s-demo-app** - Containerized FastAPI service deployed to Kubernetes via Terraform with a GitHub Actions CI/CD pipeline (Trivy vulnerability gate, OIDC-ready).
+- **k8s-demo-app** - Containerized FastAPI service deployed to Kubernetes via Terraform with a GitHub Actions pipeline (Trivy vulnerability gate, OIDC-ready).
 
 ## Certifications
 
